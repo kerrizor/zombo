@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    zombo (0.1.0)
+    zombo (0.0.1)
 
 GEM
   remote: https://rubygems.org/
